@@ -7,7 +7,6 @@ Esta aplicación en Kivy utiliza una cámara para capturar imágenes, detecta la
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Ejecución](#ejecución)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Funcionalidades](#funcionalidades)
 - [Créditos](#créditos)
 
